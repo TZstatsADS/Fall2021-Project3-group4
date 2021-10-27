@@ -7,11 +7,11 @@ Term: Fall 2021
 
 + Team ##
 + Team members
-	+ team member 1
-	+ team member 2
-	+ team member 3
-	+ team member 4
-	+ team member 5
+	+ Hui Xiang
+	+ Meghna Venkatesh
+	+ Spark Li
+	+ Emily Jennings-Dobbs
+	+ Dipesh Patel
 
 + Project summary: In this project, we created ...
 	
