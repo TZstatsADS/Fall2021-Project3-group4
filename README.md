@@ -13,10 +13,10 @@ Term: Fall 2021
 	+ Emily Jennings-Dobbs
 	+ Dipesh Patel
 
-+ Project summary: In this project, we created two more sophisticated neural network models to improve prediction performance.
++ Project summary: In this project, we built two models to experiment and deal with the noisy label issues. For the first model, we built a deep neural network and trained it on the noisy labels. Our algorithm includes batch normaizalition, Relu activation function and Adam optimizer and it was able to achiave a better training result compared to the baseline model. For the second model, we first used the deep neural network and trained it on the clean labels. Then we used the trained neural network to correct the noisy labels. After label correction, we added several weakly supervised features that augmented images by normalizing the features and fill the newly shifted pixel by nearest ones. These techniques helps our second model to be more robust.
 	
 **Contribution statement**: ([default](doc/a_note_on_contributions.md))
-	+ Hui Xiang: Initialized group connection with Emily, provided suggestions for model 1 neural network, built and tuned model 2 in Python including label correction                         and add weakly supervised features
+	+ Hui Xiang: Initialized group connection with Emily, provided suggestions for model 1 neural network, built and tuned model 2 in Python including label correction                         and add weakly supervised features, write project summary.
 	+ Meghna Venkatesh：
 	+ Spark Li：Testing and tuning model 1.
 	+ Emily Jennings-Dobbs: Helped initiate and maintain communication within the group. Built and tuned the first model in python. Helped tune parameters and added early stopping feature to second model.
