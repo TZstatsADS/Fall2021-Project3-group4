@@ -20,7 +20,7 @@ Term: Fall 2021
 	+ Meghna Venkatesh：
 	+ Spark Li：Testing and tuning model 1.
 	+ Emily Jennings-Dobbs: Helped initiate and maintain communication within the group. Built and tuned the first model in python. Helped tune parameters and added early stopping feature to second model.
-	+ Dipesh Patel：
+	+ Dipesh Patel：Testing model 1. Provided suggestions for model 2. Helped with debugging model 2. Helped with explanantions for model selection and construction.
 
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
 
