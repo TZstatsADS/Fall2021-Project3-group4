@@ -13,12 +13,12 @@ Term: Fall 2021
 	+ Emily Jennings-Dobbs
 	+ Dipesh Patel
 
-+ Project summary: In this project, we created ...
++ Project summary: In this project, we created two more sophisticated neural network models to improve prediction performance.
 	
 **Contribution statement**: ([default](doc/a_note_on_contributions.md))
 	+ Hui Xiang: Initialized group connection with Emily, provided suggestions for model 1 neural network, built and tuned model 2 in Python including label correction                         and add weakly supervised features
 	+ Meghna Venkatesh：
-	+ Spark Li：
+	+ Spark Li：Testing and tuning model 1.
 	+ Emily Jennings-Dobbs：
 	+ Dipesh Patel：
 
